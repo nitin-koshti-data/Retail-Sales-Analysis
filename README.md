@@ -35,10 +35,10 @@ Retail-Sales-Analysis/
 │   └── Retail_Sales_Dashboard.png
 │
 ├── PowerBI/
-│   └── Retail_Sales_Dashboard.pbix
+│   └── Retail Sales Dashboard.pbix
 │
 ├── Dataset/
-│   └── Retail_Sales.csv
+│   └── Retail_Sales_Data.csv
 │
 └── SQL/
     └── Retail_Sales_Queries.sql
